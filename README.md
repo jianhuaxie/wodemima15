@@ -1,4 +1,4 @@
-- 霉霉小站（mmcloud）防失联通知：
+- 霉霉小站（mmcloud）防失联通知：网站被攻击中
 - 网址：mmxz.wodetaylor.ml
 - www.wodetaylor.cf
 - 管理员邮箱：wodemima15@gmail.com
